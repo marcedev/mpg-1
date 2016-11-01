@@ -7,6 +7,8 @@
 "versionname" : "3.0.0",
 
 "cache_expiration_time" : 300000,
+    
+"plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", 
 
 "default_lang" : "en",
 
@@ -19,7 +21,9 @@
 "siteurl" : "https://my.marcellin.vic.edu.au/moodle19",
 
 "siteurln" : "http://marcellin.vic.edu.au/publications/the-eagle",
+ 
+"notifications_enabled": true,
     
-"gcmpn": "694767596569",
+"gcmpn": "232865181408",
 
 }
